@@ -2,7 +2,6 @@
 
 ## Written By Eng. Ashraf Wasfy
 
-### Badr City
 
 ###### @24 Aug. 2020
 
